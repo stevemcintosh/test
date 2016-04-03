@@ -210,13 +210,6 @@
 		E8DAF6061CAFE085003BE25A /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = UI/SettingsViewController.swift; sourceTree = "<group>"; };
 		E8DAF6081CAFE774003BE25A /* SettingsViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewCell.swift; path = UI/SettingsViewCell.swift; sourceTree = "<group>"; };
 		E8F4EC0B1C8993FA00F4FF9B /* SplitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SplitViewController.swift; path = UI/SplitViewController.swift; sourceTree = "<group>"; };
-		E8F4EC141C899FE900F4FF9B /* StaticLogStoreForDevelopment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StaticLogStoreForDevelopment.h; sourceTree = "<group>"; };
-		E8F4EC161C899FE900F4FF9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E8F4EC221C899FEA00F4FF9B /* StaticLogStoreForDevelopmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticLogStoreForDevelopmentTests.swift; sourceTree = "<group>"; };
-		E8F4EC241C899FEA00F4FF9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E8F4EC2F1C89A0D500F4FF9B /* ModelsForVariousLogTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelsForVariousLogTypes.swift; sourceTree = "<group>"; };
-		E8F4EC311C89A74C00F4FF9B /* LogCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogCollection.swift; sourceTree = "<group>"; };
-		E8F4EC331C89A7BA00F4FF9B /* LogStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogStore.swift; sourceTree = "<group>"; };
 		E8F4EC351C89A8E300F4FF9B /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = UI/DetailViewController.swift; sourceTree = "<group>"; };
 		E8FB4B751CA71A8100023CB4 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TableViewCell.swift; path = UI/TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -275,8 +268,6 @@
 				E86BDF821C873C7D0054225C /* testUITests */,
 				E86BDF971C873F200054225C /* SightRateKit */,
 				E86BDFA51C873F200054225C /* SightRateKitTests */,
-				E8F4EC131C899FE900F4FF9B /* StaticLogStoreForDevelopment */,
-				E8F4EC211C899FEA00F4FF9B /* StaticLogStoreForDevelopmentTests */,
 				E86BDF611C873C7D0054225C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -473,27 +464,6 @@
 				E8DAF6041CAFE039003BE25A /* tabBarController */,
 			);
 			name = UI;
-			sourceTree = "<group>";
-		};
-		E8F4EC131C899FE900F4FF9B /* StaticLogStoreForDevelopment */ = {
-			isa = PBXGroup;
-			children = (
-				E8F4EC141C899FE900F4FF9B /* StaticLogStoreForDevelopment.h */,
-				E8F4EC2F1C89A0D500F4FF9B /* ModelsForVariousLogTypes.swift */,
-				E8F4EC311C89A74C00F4FF9B /* LogCollection.swift */,
-				E8F4EC331C89A7BA00F4FF9B /* LogStore.swift */,
-				E8F4EC161C899FE900F4FF9B /* Info.plist */,
-			);
-			path = StaticLogStoreForDevelopment;
-			sourceTree = "<group>";
-		};
-		E8F4EC211C899FEA00F4FF9B /* StaticLogStoreForDevelopmentTests */ = {
-			isa = PBXGroup;
-			children = (
-				E8F4EC221C899FEA00F4FF9B /* StaticLogStoreForDevelopmentTests.swift */,
-				E8F4EC241C899FEA00F4FF9B /* Info.plist */,
-			);
-			path = StaticLogStoreForDevelopmentTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

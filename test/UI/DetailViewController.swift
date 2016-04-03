@@ -56,6 +56,10 @@ class DetailViewController: UIViewController, UIGestureRecognizerDelegate {
         }
     }
     
+    override func viewWillAppear(animated: Bool) {
+        super.viewWillAppear(animated)
+    }
+    
     override func viewWillDisappear(animated: Bool) {
         super.viewWillDisappear(animated)
         // If the LocationOperation is still going on, then cancel it.

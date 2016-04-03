@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E819785A1CA8A35A0058F709 /* UIImage+DownloadFrom.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81978591CA8A35A0058F709 /* UIImage+DownloadFrom.swift */; };
-		E81978601CA9883E0058F709 /* wembley.json in Resources */ = {isa = PBXBuildFile; fileRef = E819785F1CA9883E0058F709 /* wembley.json */; };
 		E81978611CA98AEB0058F709 /* Avalon-Victoria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFB71C8759990054225C /* Avalon-Victoria.jpg */; };
 		E81978621CA98AEB0058F709 /* Bali-Indonesia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFB81C8759990054225C /* Bali-Indonesia.jpg */; };
 		E81978631CA98AEB0058F709 /* Marissa-SriLanka.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFBA1C8759990054225C /* Marissa-SriLanka.jpg */; };
@@ -652,7 +651,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E81978601CA9883E0058F709 /* wembley.json in Resources */,
 				E86BDF6E1C873C7D0054225C /* LaunchScreen.storyboard in Resources */,
 				E81978621CA98AEB0058F709 /* Bali-Indonesia.jpg in Resources */,
 				E81978611CA98AEB0058F709 /* Avalon-Victoria.jpg in Resources */,

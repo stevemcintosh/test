@@ -57,7 +57,7 @@ class DetailViewController: UIViewController, UIGestureRecognizerDelegate {
     }
     
     override func viewWillAppear(animated: Bool) {
-        super.viewWillAppear(animated) //
+        super.viewWillAppear(animated)
     }
     
     override func viewWillDisappear(animated: Bool) {

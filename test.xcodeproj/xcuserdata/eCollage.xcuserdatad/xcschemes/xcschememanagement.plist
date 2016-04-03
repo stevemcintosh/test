@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>SightRateKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>StaticLogStoreForDevelopment.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +33,26 @@
 			<true/>
 		</dict>
 		<key>E86BDF7E1C873C7D0054225C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E86BDF951C873F1F0054225C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E86BDF9E1C873F200054225C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8F4EC111C899FE900F4FF9B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8F4EC1A1C899FEA00F4FF9B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

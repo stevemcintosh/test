@@ -21,7 +21,8 @@ class SettingsViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        guard let navBar = self.tabBarController?.navigationItem else { return }
+        navBar.title = "Settings"
     }
     
     // MARK: TableViewDataSourceDelegate methods

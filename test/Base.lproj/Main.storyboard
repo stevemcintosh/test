@@ -271,12 +271,12 @@
             </objects>
             <point key="canvasLocation" x="-785" y="-520"/>
         </scene>
-        <!--Spots-->
+        <!--Tab-->
         <scene sceneID="uZt-O7-Zk5">
             <objects>
-                <tabBarController id="bR1-r6-gTe" sceneMemberID="viewController">
+                <tabBarController title="Tab" id="bR1-r6-gTe" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationItem key="navigationItem" title="Spots" id="tN8-ni-oIb"/>
+                    <navigationItem key="navigationItem" id="tN8-ni-oIb"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="kIA-Ji-onW">
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -294,7 +294,7 @@
         <!--Settings-->
         <scene sceneID="wnw-tG-cbd">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="vLv-r3-dYn" sceneMemberID="viewController">
+                <navigationController title="Settings" automaticallyAdjustsScrollViewInsets="NO" id="vLv-r3-dYn" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Settings" image="tabbar_settings" selectedImage="tabbar_settings" id="bPw-PF-AOs"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="ox5-TL-a1H">
@@ -313,7 +313,7 @@
         <!--Spots-->
         <scene sceneID="Uvp-ba-Muc">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="91X-iV-HSc" sceneMemberID="viewController">
+                <navigationController title="Spots" automaticallyAdjustsScrollViewInsets="NO" id="91X-iV-HSc" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Spots" image="tabbar_dashboard" selectedImage="tabbar_dashboard" id="P1k-rc-rpd"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="tKT-QP-f2B">

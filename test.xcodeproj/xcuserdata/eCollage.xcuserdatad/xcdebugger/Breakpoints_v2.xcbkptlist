@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "test/TableViewController.swift"
-            timestampString = "481138652.938668"
+            timestampString = "481389043.345907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "79"
-            endingLineNumber = "79"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
             landmarkName = "getResultsForSearch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "test/TableViewController.swift"
-            timestampString = "481138652.938668"
+            timestampString = "481389043.345907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
             landmarkName = "getResultsForSearch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "test/TableViewController.swift"
-            timestampString = "481291456.139494"
+            timestampString = "481389043.345907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "173"
-            endingLineNumber = "173"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
             landmarkName = "searchBarShouldEndEditing(_:)"
             landmarkType = "5">
             <Locations>
@@ -90,11 +90,11 @@
                   moduleName = "test"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/eCollage/Desktop/test/test/TableViewController.swift"
-                  timestampString = "481386979.346476"
+                  timestampString = "481389352.90646"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "173"
-                  endingLineNumber = "173"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
                   offsetFromSymbolStart = "20">
                </Location>
                <Location
@@ -105,11 +105,11 @@
                   moduleName = "test"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/eCollage/Desktop/test/test/TableViewController.swift"
-                  timestampString = "481386979.346643"
+                  timestampString = "481389352.906617"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "174"
-                  endingLineNumber = "174"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
                   offsetFromSymbolStart = "32">
                </Location>
             </Locations>
@@ -122,11 +122,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "test/TableViewController.swift"
-            timestampString = "481291456.139494"
+            timestampString = "481389043.345907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
             landmarkName = "searchBarTextDidEndEditing(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "test/TableViewController.swift"
-            timestampString = "481291456.139494"
+            timestampString = "481389043.345907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "191"
-            endingLineNumber = "191"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
             landmarkName = "textFieldShouldReturn(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -154,11 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "test/TableViewController.swift"
-            timestampString = "481291456.139494"
+            timestampString = "481389043.345907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "185"
-            endingLineNumber = "185"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
             landmarkName = "searchBarSearchButtonClicked(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -234,7 +234,7 @@
                   moduleName = "test"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/eCollage/Desktop/test/test/UI/DetailViewController.swift"
-                  timestampString = "481386990.606528"
+                  timestampString = "481389352.911709"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "28"
@@ -249,7 +249,7 @@
                   moduleName = "test"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/eCollage/Desktop/test/test/UI/DetailViewController.swift"
-                  timestampString = "481386990.606839"
+                  timestampString = "481389352.911863"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "28"
@@ -271,6 +271,38 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "50"
             endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/TableViewController.swift"
+            timestampString = "481389020.97628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test/TableViewController.swift"
+            timestampString = "481389069.375728"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
             landmarkName = "viewDidLoad()"
             landmarkType = "5">
          </BreakpointContent>

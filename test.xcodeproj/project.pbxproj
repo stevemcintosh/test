@@ -256,10 +256,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E86BDF571C873C7D0054225C = {
+		E82B7AB11CB1656F008EAB6E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				E8DAC5F21CB03D160011A49A /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E86BDF571C873C7D0054225C = {
+			isa = PBXGroup;
+			children = (
 				E86BDFB61C8757760054225C /* TestImages */,
 				E86BDF621C873C7D0054225C /* test */,
 				E88A1DB81CA16F41002EEFFB /* App Operations */,
@@ -269,6 +276,7 @@
 				E86BDF971C873F200054225C /* SightRateKit */,
 				E86BDFA51C873F200054225C /* SightRateKitTests */,
 				E86BDF611C873C7D0054225C /* Products */,
+				E82B7AB11CB1656F008EAB6E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};

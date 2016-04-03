@@ -23,9 +23,6 @@ class TableViewController: UITableViewController, UISearchBarDelegate, UITextFie
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        guard let navBar = self.tabBarController?.navigationItem else { return }
-        navBar.title = "Spots"
-
         self.searchBar.text = "wembley"
         self.searchBar.delegate = self
         
@@ -54,6 +51,8 @@ class TableViewController: UITableViewController, UISearchBarDelegate, UITextFie
     
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
+        guard let navBar = self.tabBarController?.navigationItem else { return }
+        navBar.title = "Spots"
     }
     
     func getResultsForSearch(userInitiated: Bool = true) {

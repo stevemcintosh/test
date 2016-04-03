@@ -21,6 +21,10 @@ class SettingsViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+    }
+
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
         guard let navBar = self.tabBarController?.navigationItem else { return }
         navBar.title = "Settings"
     }

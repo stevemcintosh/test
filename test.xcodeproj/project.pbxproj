@@ -8,11 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E819785A1CA8A35A0058F709 /* UIImage+DownloadFrom.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81978591CA8A35A0058F709 /* UIImage+DownloadFrom.swift */; };
-		E81978611CA98AEB0058F709 /* Avalon-Victoria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFB71C8759990054225C /* Avalon-Victoria.jpg */; };
-		E81978621CA98AEB0058F709 /* Bali-Indonesia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFB81C8759990054225C /* Bali-Indonesia.jpg */; };
-		E81978631CA98AEB0058F709 /* Marissa-SriLanka.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFBA1C8759990054225C /* Marissa-SriLanka.jpg */; };
-		E81978641CA98AEB0058F709 /* Paros-Greece.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFBB1C8759990054225C /* Paros-Greece.jpg */; };
-		E81978651CA98AEB0058F709 /* Santorini-Greece.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E86BDFBC1C8759990054225C /* Santorini-Greece.jpg */; };
 		E850D6B11CB0001B0076768F /* SettingsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E850D6B01CB0001B0076768F /* SettingsDetailViewController.swift */; };
 		E850D6B31CB032B20076768F /* SettingsDetailViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E850D6B21CB032B20076768F /* SettingsDetailViewCell.swift */; };
 		E86BDF641C873C7D0054225C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86BDF631C873C7D0054225C /* AppDelegate.swift */; };
@@ -652,13 +647,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E86BDF6E1C873C7D0054225C /* LaunchScreen.storyboard in Resources */,
-				E81978621CA98AEB0058F709 /* Bali-Indonesia.jpg in Resources */,
-				E81978611CA98AEB0058F709 /* Avalon-Victoria.jpg in Resources */,
-				E81978651CA98AEB0058F709 /* Santorini-Greece.jpg in Resources */,
-				E81978641CA98AEB0058F709 /* Paros-Greece.jpg in Resources */,
 				E86BDF6B1C873C7D0054225C /* Assets.xcassets in Resources */,
 				E88A1DC01CA178BB002EEFFB /* Main.storyboard in Resources */,
-				E81978631CA98AEB0058F709 /* Marissa-SriLanka.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
